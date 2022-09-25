@@ -1,5 +1,5 @@
 # Home Assistant Add-on: Baby Buddy
-[BabyBuddy](https://github.com/babybuddy/babybuddy), wrapped into a Home Assistant addon
+[BabyBuddy](https://github.com/ryanhatfield/babybuddy), wrapped into a Home Assistant addon
 
 ## Config Options
 

@@ -4,7 +4,7 @@ version: 1.12.2
 homeassistant: 2022.7.7
 slug: baby_buddy
 description: Track sleep, feedings, diaper changes, tummy time and more!
-url: https://github.com/OttPeterR/addon-babybuddy
+url: https://github.com/ryanhatfield/addon-babybuddy
 arch:
   - aarch64
   - amd64
@@ -20,7 +20,7 @@ panel_admin: false
 options:
   CSRF_TRUSTED_ORIGINS: ""
   log_level: info
-schema: 
+schema:
   CSRF_TRUSTED_ORIGINS: str
   log_level: list(debug|info|warning|error|critical)
 ports:
